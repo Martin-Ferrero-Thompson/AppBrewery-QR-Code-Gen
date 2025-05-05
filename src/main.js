@@ -14,7 +14,8 @@ document.querySelector('#app').innerHTML = `
       <div id="error" class="error"></div>
     </div>
     <div class="footer">
-      <h5>MFT - QR Code Generator for Full-Stack Web Development Bootcamp</h5>
+      <h4>QR Code Generator for Full-Stack Web Development Bootcamp</h4>
+      <p>&copy; 2025 MFT</p>
   </div>
 `
 

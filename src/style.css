@@ -47,11 +47,12 @@ h1 {
   text-align: center;
 }
 
-h5 {
+.footer {
   color: #1a1a1a;
   margin: 0 0 2rem 0;
   text-align: center;
 }
+
 .qr-form {
   display: flex;
   flex-direction: column;
